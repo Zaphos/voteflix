@@ -1,3 +1,3 @@
 # voteflix
 
-# This is the README for Voteflix.
+<p> This is the README for Voteflix. </p>
